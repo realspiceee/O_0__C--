@@ -4,8 +4,6 @@
 
 class Student {
 	std::string name;
-	int age;
-	int study_class;
 	static int amount_of_student;
 	int id;
 public:
